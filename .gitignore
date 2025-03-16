@@ -1,2 +1,4 @@
 .aws/credentials
 .aws/credentials
+.bash_history
+backup-repo/
