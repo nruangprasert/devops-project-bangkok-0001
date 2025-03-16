@@ -6,3 +6,4 @@ class ExampleModel {
 }
 
 module.exports = ExampleModel;
+# comment
