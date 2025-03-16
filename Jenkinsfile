@@ -16,8 +16,3 @@ pipeline {
         }
     }
 }
-# Dummy change
-# Dummy commit
-# Force Jenkins build
-# Force Jenkins build
-# Force Jenkins build
