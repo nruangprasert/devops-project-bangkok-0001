@@ -2,3 +2,4 @@
 # Edit at your own risk.
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 pkg.jenkins.io	0	0	1741547064	300
+github.com	0	1	1742585257	31536000
